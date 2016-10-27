@@ -13,26 +13,26 @@ Solution Integrator Experienced - Certified by Ericsson
 Table of Contents
 
 Chapter 1: Introduction
-[ ] Defining the Problem
-[ ] OTP
-[ ] Distribution, Infrastructure, and Multicore
-[ ] Summing Up
-[ ] What You’ll Learn in This Book
+[x] Defining the Problem
+[x] OTP
+[x] Distribution, Infrastructure, and Multicore
+[x] Summing Up
+[x] What You’ll Learn in This Book
 
 Chapter 2: Introducing Erlang
-[ ] Recursion and Pattern Matching
-[ ] Functional Influence
-[ ] Processes and Message Passing
-[ ] Fail Safe!
-[ ] Links and Monitors for Supervision
-[ ] Records
-[ ] Maps
-[ ] Macros
-[ ] Upgrading Modules
-[ ] ETS: Erlang Term Storage
-[ ] Distributed Erlang
-[ ] Summing Up
-[ ] What’s Next?
+[x] Recursion and Pattern Matching
+[x] Functional Influence
+[x] Processes and Message Passing
+[x] Fail Safe!
+[x] Links and Monitors for Supervision
+[x] Records
+[x] Maps
+[x] Macros
+[x] Upgrading Modules
+[x] ETS: Erlang Term Storage
+[x] Distributed Erlang
+[x] Summing Up
+[x] What’s Next?
 
 Chapter 3: Behaviors
 [ ] Process Skeletons
